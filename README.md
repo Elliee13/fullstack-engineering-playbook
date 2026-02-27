@@ -24,6 +24,17 @@ Written to be useful for both solo developers and teams.
 - [Default stack](docs/07-default-stack.md)
 - [Project kickoff checklist](docs/08-project-kickoff-checklist.md)
 - [Production readiness checklist](docs/09-production-readiness-checklist.md)
+- [Architecture Defaults](docs/10-architecture-defaults.md)
+- [Api Contracts](docs/11-api-contracts.md)
+- [Testing Strategy](docs/12-testing-strategy.md)
+- [Migrations & Safe Deploys](docs/13-migrations-and-safe-deploys.md)
+- [Observability & Incidents](docs/14-observability-and-incidents.md)
+- [Privacy Data Retention](docs/15-privacy-data-retention.md) 
+- [Supabase Golden Path](docs/16-supabase-golden-path.md)
+- [Code Review Standards](docs/17-code-review-standards.md)
+- [Threat Model Lite](docs/18-threat-model-lite.md)
+- [Repo File Architecture](docs/19-repo-file-architecture.md)
+
 
 ## Philosophy
 - Prefer simple systems first; scale complexity only when needed.
