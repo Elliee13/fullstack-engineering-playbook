@@ -14,6 +14,8 @@ Written to be useful for both solo developers and teams.
 3) Before shipping, run: **docs/09-production-readiness-checklist.md**
 
 ## Contents
+Use this indexing below for easy navigation of the contents
+
 - [How to use this playbook](docs/00-how-to-use-this-playbook.md)
 - [Frontend standards](docs/01-frontend-standards.md)
 - [Backend standards](docs/02-backend-standards.md)
@@ -35,16 +37,28 @@ Written to be useful for both solo developers and teams.
 - [Threat Model Lite](docs/18-threat-model-lite.md)
 - [Repo File Architecture](docs/19-repo-file-architecture.md)
 
-## Product Delivery or Collaboration
+ 
+Product Delivery or Collaboration
 - [Requirements & Specs](docs/1-product-delivery-or-collaboration/20-requirements-and-specs.md)
 - [Estimation and Planning](docs/1-product-delivery-or-collaboration/21-estimation-and-planning.md)
 - [Release Management](docs/1-product-delivery-or-collaboration/22-release-management.md)
 
-## Architecture Decision Records
+Environment & Configuration Standards
+- [Environment and Configuration](docs/2-environment-&-configuration-standards/23-environment-and-config.md)
 
-- [Monorope Structure](docs/0001-monorope-structure.md)
-- [Monorope Structure](docs/0001-monorope-structure.md)
+Architecture Decision Records
+- [Monorope Structure](docs/3-architecture-decision-records/0001-monorepo-structure.md)
 
+Backend Operational Records
+- [Background Jobs & Queries](docs/4-backend-operational-hardening/24-background-jobs-and-queues.md)
+- [Webhooks Playbook](docs/4-backend-operational-hardening/25-webhooks-playbook.md)
+- [Caching Standards](docs/4-backend-operational-hardening/26-caching-standards.md)
+
+Data Lifecycle & Governance
+- [Privacy Data Retention](docs/5-data-lifecycle-&-governance/15-privacy-data-retention.md)
+- [Audit Logging](docs/5-data-lifecycle-&-governance/27-audit-logging.md)
+- [Data Migrations and Blackfills](docs/5-data-lifecycle-&-governance/28-data-migrations-and-backfills.md)
+- [Data Export Import](docs/5-data-lifecycle-&-governance/29-data-export-import.md)
 
 ## Philosophy
 - Prefer simple systems first; scale complexity only when needed.
